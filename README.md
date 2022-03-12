@@ -45,8 +45,7 @@
  ![vercel](https://img.shields.io/badge/-vercel-333333?style=flat&logo=vercel)
  ![netlify](https://img.shields.io/badge/-netlify-333333?style=flat&logo=netlify)
 ### 🛠 &nbsp;Learning
--
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
@@ -71,6 +70,6 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
 ## Connect with me:
 🌎 **[Website](https://priyanshu-portfolio.vercel.app/)**
 
-🌎 **[Email](mailto:patwaripriyanshu2021@gmail.com)**
+📧 **[Email](mailto:patwaripriyanshu2021@gmail.com)**
 
 
