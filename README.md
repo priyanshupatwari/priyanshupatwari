@@ -30,7 +30,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
-- 🌐 ![pwa](https://img.shields.io/badge/-Progressive_Web_App-333333?style=flat&logo=pwa)
+- 🌐 
+  ![pwa](https://img.shields.io/badge/-Progressive_Web_App-333333?style=flat&logo=pwa)
  - 🔧 &nbsp;
  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
