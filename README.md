@@ -68,7 +68,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupatwari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### Connect with me:
+## Connect with me:
 🌎 **[Website](https://priyanshu-portfolio.vercel.app/)**
 
 🌎 **[Email](mailto:patwaripriyanshu2021@gmail.com)**
