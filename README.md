@@ -57,7 +57,7 @@
 
 Feel free to visit my website **[priyanshu-portfolio.vercel.app](https://priyanshu-portfolio.vercel.app/)** to explore some of my recent **projects** and find more about me.
 
-I'm **open** to full-time opportunities where I can **contribute**, **learn** and **grow**. If you have a good opportunity that matches my skills and experience then feel free to **contact** me on my my **[Website](https://priyanshu-portfolio.vercel.app/)**.
+I'm **open** to opportunities where I can **contribute**, **learn** and **grow**. If you have a good opportunity that matches my skills and experience then feel free to **contact** me on my my **[Website](https://priyanshu-portfolio.vercel.app/)**.
 
 
 ---
