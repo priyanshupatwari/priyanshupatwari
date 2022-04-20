@@ -11,7 +11,7 @@
 - I am a future full-stack developer, currently I'm focusing on the backend.
 
 - I'm **fun to work with**, I always like to **learn new things** from others as much as helping others **solve their problems** 🚀
-- Ask me about anything related to JS, React, Next.js .(After googling it 😜😌)
+- Ask me about anything related to JS, React, Next.js.
 ---
 
 ## **Languages and Tools I Know**:
