@@ -1,8 +1,7 @@
 
 
 # Hi there, I'm Priyanshu 👋
-
-[![Website](https://img.shields.io/website?label=priyanshu-portfolio.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://priyanshu-portfolio.vercel.app/)
+### Connect with me here. 👉 [![Website](https://img.shields.io/website?label=priyanshu-portfolio.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://priyanshu-portfolio.vercel.app/)
 
 ## Web Developer 👨‍💻
 
