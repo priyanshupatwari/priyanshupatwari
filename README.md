@@ -8,7 +8,7 @@
 
 - I'm a **Frontend Web Developer** building the **Front-end** of **Websites** and **Web Applications** that leads to the success of the overall product. While building any product, I always make sure that whatever I'm building, it's going to **solve problems** and it's going to **provide value** no matter how small or large the product is.
 
-- I am a future full-stack developer, currently I'm focusing on the **Baackend** and **Data Structure and Algorithms**.
+- I am a future full-stack developer, currently I'm focusing on the **Backend** and **Data Structure and Algorithms**.
 
 - I'm **fun to work with**, I always like to **learn new things** from others as much as helping others **solve their problems** 🚀
 - Ask me about anything related to JS, React, Next.js.
