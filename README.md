@@ -1,6 +1,6 @@
 
 
-## Hi there, I'm Priyanshu 👋
+# Hi there, I'm Priyanshu 👋
 
 [![Website](https://img.shields.io/website?label=priyanshu-portfolio.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://priyanshu-portfolio.vercel.app/)
 
@@ -8,7 +8,7 @@
 
 - I'm a **Frontend Web Developer** building the **Front-end** of **Websites** and **Web Applications** that leads to the success of the overall product. While building any product, I always make sure that whatever I'm building, it's going to **solve problems** and it's going to **provide value** no matter how small or large the product is.
 
-- I am a future full-stack developer, currently I'm focusing on the backend.
+- I am a future full-stack developer, currently I'm focusing on the **Baackend** and **Data Structure and Algorithms**.
 
 - I'm **fun to work with**, I always like to **learn new things** from others as much as helping others **solve their problems** 🚀
 - Ask me about anything related to JS, React, Next.js.
@@ -30,7 +30,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
-- 🌐 
+- 🌐 &nbsp;
   ![pwa](https://img.shields.io/badge/-Progressive_Web_App-333333?style=flat&logo=pwa)
  - 🔧 &nbsp;
  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
