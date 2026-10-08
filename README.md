@@ -1,6 +1,5 @@
+
 # Hi there, I'm Priyanshu 👋
-### Connect with me here  
-[![Website](https://img.shields.io/website?label=priyanshu-portfolio.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://priyanshu-portfolio.vercel.app/)
 
 ## AI Engineer & Full-Stack Builder 🤖⚡
 
@@ -45,9 +44,7 @@
 
 ---
 
-Feel free to visit my website **[priyanshu-portfolio.vercel.app](https://priyanshu-portfolio.vercel.app/)** to explore my recent **AI & Web projects**.
-
-I'm **open** to collaborations, engineering roles, and research projects in the AI space. Feel free to reach out!
+I'm **open** to collaborations, engineering roles, and projects in the AI space. Feel free to reach out!
 
 ---
 
@@ -59,5 +56,4 @@ I'm **open** to collaborations, engineering roles, and research projects in the 
 ---
 
 ## Connect with me:
-🌎 **[Website](https://priyanshu-portfolio.vercel.app/)**  
 📧 **[Email](mailto:patwaripriyanshu2021@gmail.com)**
